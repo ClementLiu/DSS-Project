@@ -195,7 +195,7 @@ def export(out_dir: str) -> None:
     print("       Netlify Drop  →  drag & drop at app.netlify.com/drop")
     print("       GitHub Pages  →  push to a gh-pages branch")
     print("  2. Add one line to frontend/.env.local:")
-    print("       VITE_QR_BASE=https://your-site.netlify.app")
+    print("       VITE_QR_BASE=https://gleaming-marzipan-b1cb74.netlify.app")
     print("  3. Restart the frontend dev server (npm run dev).")
 
 
